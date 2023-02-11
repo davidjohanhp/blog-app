@@ -16,9 +16,9 @@ mongoose
         useUnifiedTopology: true
      }
 )
-.then(() => app.listen(3000))
+.then(() => app.listen(4000))
 .then(() => 
-    console.log ("Connected to database and listening to localhost 3000")
+    console.log ("Connected to database and listening to localhost 4000")
     )
 .catch((err) => console.log(err));
 // app.use("/api", (req, res, next) => {
