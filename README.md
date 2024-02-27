@@ -19,3 +19,7 @@ This project serves as the backend for a Blog Web Application, utilizing Node.js
 Before starting, ensure you have the following installed:
 - Node.js and npm (Node Package Manager).
 - MongoDB, either locally or through a MongoDB Atlas cluster.
+
+## Contributing
+
+Your contributions are welcome! If you have suggestions for improving the application, please open an issue or pull request.
